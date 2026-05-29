@@ -18,7 +18,7 @@ Six years architecting and shipping platforms across **fintech, healthcare, AI, 
 - 🔭 &nbsp; Currently learning solidity 
 - 🛠 &nbsp; Open to freelance & contract work
 - 💬 &nbsp; Ask me about **Next.js, Node, AWS, Stripe, or shipping fast without breaking things**
-- 📫 &nbsp; Reach me at **ktogadiya80@gmail.com** — I respond within hours, not days
+- 📫 &nbsp; Reach me at **ktogadiya80@gmail.com** - I respond within hours, not days
 
 ---
 
@@ -28,8 +28,10 @@ Six years architecting and shipping platforms across **fintech, healthcare, AI, 
 ![React](https://img.shields.io/badge/-React-0a0a0a?style=flat-square&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178c6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![TanStack](https://img.shields.io/badge/-TanStack-0a0a0a?style=flat-square&logo=reactquery&logoColor=FF4154)
 ![Node.js](https://img.shields.io/badge/-Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?style=flat-square&logo=nestjs&logoColor=e0234e)
+![Express.js](https://img.shields.io/badge/-Express.js-0a0a0a?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?style=flat-square&logo=graphql&logoColor=e10098)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47a248)
@@ -47,7 +49,7 @@ Six years architecting and shipping platforms across **fintech, healthcare, AI, 
 
 > *"Exceptionally versatile full-stack developer — equally strong on frontend and backend. He's not a yes-man; gives thoughtful, honest feedback. Anyone would be lucky to work with Kenil."*
 >
-**Robert S.** · Upwork ★★★★★
+**Robert S.** · Upwork client ★★★★★
 
 > *"Amazing to work with! Kenil was very knowledgeable and we worked very well together with regular communication. I look forward to working with him next time."*
 >
