@@ -47,7 +47,7 @@ Six years architecting and shipping platforms across **fintech, healthcare, AI, 
 
 ## ✻ What Clients Say
 
-> *"Exceptionally versatile full-stack developer — equally strong on frontend and backend. He's not a yes-man; gives thoughtful, honest feedback. Anyone would be lucky to work with Kenil."*
+> *"Exceptionally versatile full-stack developer - equally strong on frontend and backend. He's not a yes-man; gives thoughtful, honest feedback. Anyone would be lucky to work with Kenil."*
 >
 **Robert S.** · Upwork client ★★★★★
 
