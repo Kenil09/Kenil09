@@ -18,7 +18,7 @@ Six years architecting and shipping platforms across **fintech, healthcare, AI, 
 - 🔭 &nbsp; Currently learning solidity 
 - 🛠 &nbsp; Open to freelance & contract work
 - 💬 &nbsp; Ask me about **Next.js, Node, AWS, Stripe, or shipping fast without breaking things**
-- 📫 &nbsp; Reach me at **ktogadiya80@gmail.com** - I respond within hours, not days
+- 📫 &nbsp; Reach me at **ktogadiya80@gmail.com** - I respond within 24 hours
 
 ---
 
